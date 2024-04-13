@@ -17,8 +17,9 @@ This project addresses the pressing issue of fake news proliferation in today's 
 **Requirements**
 Python: Version 3.6 or higher
 **Python Packages**
-pandas: Data manipulation and analysis library
-numpy: Numerical computing library
-matplotlib: Data visualization library
-scikit-learn: Machine learning library for classification, regression, and clustering
-nltk: Natural Language Toolkit for NLP tasks such as tokenization, stemming, and stop word removal
+pandas: Data manipulation and analysis library.
+numpy: Numerical computing library.
+matplotlib: Data visualization library.
+seaborn: Statistical data visualization library based on matplotlib.
+scikit-learn: Machine learning library for classification, regression, and clustering.
+nltk: Natural Language Toolkit for NLP tasks such as tokenization, stemming, and stop word removal.
